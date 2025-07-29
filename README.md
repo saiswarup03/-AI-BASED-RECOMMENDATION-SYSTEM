@@ -56,4 +56,9 @@ Java provides a robust ecosystem for building scalable, AI-based recommendation 
 ---
 
 Let me know if you’d like a working **code example** or **project structure** for such a system.
+*OUTPUT*
 
+Recommendations for user 1:
+Item ID: 103, Score: 3.75
+Item ID: 104, Score: 3.60
+Item ID: 105, Score: 3.20
